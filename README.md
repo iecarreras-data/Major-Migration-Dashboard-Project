@@ -41,7 +41,7 @@ The repository is structured as a self-contained project to ensure full reproduc
 ├── data/
 │   └── processed/
 ├── output/
-│   └── network_preview.png
+│   └── major_migration_preview.png
 ├── .gitignore
 ├── LICENSE
 └── README.md
