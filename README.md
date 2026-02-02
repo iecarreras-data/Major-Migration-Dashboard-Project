@@ -8,7 +8,7 @@ The end product is an interactive D3.js visualization that combines intelligent 
 
 **Live Demo:** [View Visualization](https://iecarreras-data.github.io/projects/major-migration-network/)
 
-![Major Migration Network Preview](https://raw.githubusercontent.com/iecarreras-data/Major-Migration-Dashboard-Project/main/output/network_preview.png)
+![Major Migration Network Preview](https://raw.githubusercontent.com/iecarreras-data/Major-Migration-Dashboard-Project/main/output/major_migration_preview.png)
 
 ### Core Competencies Showcased
 
