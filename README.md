@@ -1,2 +1,2 @@
 # Major-Migration-Dashboard-Project
-Interactive visualization of student migration patterns between majors
+The source code and interactive visualization of student migration patterns between majors
