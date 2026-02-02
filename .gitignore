@@ -1,10 +1,6 @@
-# R data files
-data/
+# Keep folders but ignore large files
 *.rds
-
-# Generated output
-output/
-*.html
+output/*.html
 
 # R session files
 .Rhistory
