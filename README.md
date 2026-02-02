@@ -6,7 +6,7 @@ This project addresses the challenge of visualizing complex student migration pa
 
 The end product is an interactive D3.js visualization that combines intelligent collision-aware routing with semantic color coding, showcasing my ability to develop novel data visualization techniques and deploy sophisticated interactive tools.
 
-**Live Demo:** [View Visualization](https://iecarreras-data.github.io/projects/major-migration-dashboard/)
+**Live Demo:** [View Visualization](https://iecarreras-data.github.io/projects/major-migration-dashboard/major-migration-dashboard-web.html)
 
 ![Major Migration Network Preview](output/major_migration_preview.png)
 
