@@ -1,0 +1,29 @@
+major_code,major_name,division_code,division_name
+ART,Studio Art,HUM,Humanities
+ARTH,Art History,HUM,Humanities
+ENGL,English,HUM,Humanities
+FREN,French,HUM,Humanities
+SPAN,Spanish,HUM,Humanities
+PHIL,Philosophy,HUM,Humanities
+RELI,Religion,HUM,Humanities
+MUSC,Music,HUM,Humanities
+RHET,Rhetoric,HUM,Humanities
+THEA,Theater,HUM,Humanities
+CLAS,Classic and Medieval Culture,HUM,Humanities
+ASIA,Asian Language & Culture,HUM,Humanities
+ECON,Economics,SOC,Social Sciences
+PSYC,Psychology,SOC,Social Sciences
+SOCI,Sociology,SOC,Social Sciences
+POLI,Political Science,SOC,Social Sciences
+ANTH,Anthropology,SOC,Social Sciences
+HIST,History,SOC,Social Sciences
+AFAM,African American Studies,SOC,Social Sciences
+GSWS,"Gender, Sexuality & Women's Studies",SOC,Social Sciences
+BIOL,Biology,NAT,Natural Sciences
+CHEM,Chemistry,NAT,Natural Sciences
+PHYS,Physics & Astronomy,NAT,Natural Sciences
+MATH,Mathematics,NAT,Natural Sciences
+ENVI,Environmental Science,NAT,Natural Sciences
+CSCI,Computer Science,APP,Applied Sciences
+ASDS,Applied Statistics & Data Science,APP,Applied Sciences
+NEUR,Neuroscience,APP,Applied Sciences
